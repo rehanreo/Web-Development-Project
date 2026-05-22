@@ -81,6 +81,13 @@ nav a:hover {
   object-fit: cover;
 }
 
+.bg {
+  background-image: url("Images/Background (3).png");
+  background-size: cover;
+  background-position: center;  
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
 /* SPECIAL SECTION */
 .special-section {
   padding: 50px;
@@ -221,10 +228,3 @@ footer {
   color: #FFD700;
 }
 
-.bg {
-  background-image: url("Images/Background (3).png");
-  background-size: cover;
-  background-position: center;  
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-}
